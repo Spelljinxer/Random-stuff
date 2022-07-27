@@ -1,2 +1,2 @@
 # Random-stuff
-idk, some things I coded, includes algorithms
+idk, things I save for storage (e.g. algorithms)
